@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=CollaB3
+Comment=Free vintage tonewheel organ emulation
+Exec=$HOME/.sampleson/CollaB3
+Terminal=false
+Type=Application
+Icon=CollaB3.png
+Categories=Audio;X-Jack;Midi;X-MIDI;
+Keywords=Audio;Sound;Organ;Midi;Jack;
+

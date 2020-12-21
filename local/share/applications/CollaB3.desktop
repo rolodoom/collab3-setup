@@ -1,11 +1,11 @@
 [Desktop Entry]
-Categories=Audio;X-Jack;Midi;X-MIDI;
+Categories=AudioVideo;Audio;X-Jack;Midi;X-MIDI;
 Comment[en_US]=Free vintage tonewheel organ emulation
 Comment=Free vintage tonewheel organ emulation
 Exec=$HOME/.sampleson/CollaB3
 GenericName[en_US]=
 GenericName=
-Icon=CollaB3.png
+Icon=CollaB3
 Keywords=Audio;Sound;Organ;Midi;Jack;
 MimeType=
 Name[en_US]=CollaB3

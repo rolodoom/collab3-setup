@@ -43,7 +43,7 @@ aa_uninstall () {
     # desktop files
     rm -rf "$HOME/.local/share/applications/CollaB3.desktop"
     # icons
-    rm -rf "$HOME/.local/share/icons/hicolor/256x256/apps/CollaB3.png"
+    rm -rf "$HOME/.local/share/icons/CollaB3.png"
 
     echo "Done!!!"
 }
